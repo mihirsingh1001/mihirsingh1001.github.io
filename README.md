@@ -1,1 +1,42 @@
-# mihirsingh1001.github.io
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta charset="urtf-8">
+    <meta name="description" content="Mihirsingh">
+    <title>Mihirsingh</title>
+    <link rel="stylesheet" type="text/css" href="styleacc.css"/>
+    </head>
+<body class="body">
+<div class="part1">
+  <h1 class="heading">I'm Mihirsingh </h1>
+  <p class="para">I am a <span class="Pro">Pro</span>grammer.I want to became a <a href="https://www.geeksforgeeks.org/what-is-full-stack-development/">Fullstack</a> Developer.<br><br><a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">What is Fullstack Developer?</a></p>
+  <img class="logo" src="1.jpg" width="60px"/>
+</div>
+<div class="part2">
+  <img class="img" src="2.jpg" width="240px"/>
+ <p class="Para2"> I am programmer and I have intersert in web development with lot of intersert and enthusiasm. I am  focusing on Fullstack Development and Database.<br> I always do lots of new stuff in programing... It keeps me busy and develop me IT Sector Professionally.</p>
+</div>
+<hr class="hr"> 
+<div>
+  <h2 class="project"><u>PROJECTS</u></h2>
+  <img class="img2" src="3.jpg" width="240px"/>
+  <h4 class="h4">1.INTODUCTION SITE</h4>
+</div>
+<div class="part3">
+  <h2 class="h2"> CONTACT ME<h2>
+   <h4 class="work">Would you like to work with me? That will <span class="awesome">AWESOME!!!!!</span> </h4> 
+   <p class="para4"><a class="meet" href="#">Let's Build Together...</a></p>
+   <p class="logos">
+     <a href="https://www.instagram.com/mihirsingh_10/"><img src="insta.png" alt="instagram" width="30px"/></a>
+     <a href="https://web.whatsapp.com/"><img src="whatsapp.png" alt="whatsapp" width="30px"/></a>
+     <a href="https://www.facebook.com/mihir.bais"><img src="facebook.png" alt="facebook" width="30px"/></a>
+     <a href="www.gmail.com"><img src="gmail.png" alt="gmail" width="30px"/></a>
+     <a href="https://www.instagram.com/mihirsingh_10/"><img src="github.png" alt="github" width="30px"/></a>
+     <a href="https://www.instagram.com/mihirsingh_10/"><img src="twitter.png" alt="twitter" width="30px"/></a>
+   </p>
+</div>
+
+  </body>
+  </html>
