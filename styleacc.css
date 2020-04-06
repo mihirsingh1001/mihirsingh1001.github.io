@@ -32,7 +32,9 @@ height: 100%;
 }
 .img {
     position: relative;
-    left: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     border: solid  ;
     border-radius: 50px;
 }
@@ -54,7 +56,9 @@ height: 100%;
 }
 .img2 {
     position: relative;
-    left: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     border: solid  ;
     border-radius: 10px;
     top: 30px;
